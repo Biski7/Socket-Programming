@@ -10,3 +10,10 @@ Linux's inbuilt "TOP" command is used to measure the CPU % and Memory usage duri
 But if the client.py program finishes before 500 iterations the "kill -9" command kills top command.
 ******************
 Server.py is pretty straight forward, it receives the data from client and writes the received bytes to a file.
+
+
+
+
+########################################
+The Socket_Time folder contains the shell file to capture the CPU Execution Time.
+The Client and Server File are the same.
